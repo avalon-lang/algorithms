@@ -25,6 +25,8 @@ Deutsch's algorithm solves the following problem: given a binary function, find 
 it is constant (returns the same output for all inputs) or balanced (returns different outputs on different inputs).  
 The classical version requires calling the function twice while the quantum version calls the function only once.
 
+[Documentation](https://avalon-lang.readthedocs.io/en/latest/algorithms/deutsch.html)
+
 ## What is Avalon
 
 Avalon is a programming language that targets hybrid classical-quantum computers. These computers 
